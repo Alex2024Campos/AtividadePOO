@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\Downloads\\Escola_Basilides_de_Godoy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96328D83-541B-47E6-BA70-DFC61825CF24}|AtividadeVendas\\AtividadeVendas.csproj|c:\\users\\camil\\downloads\\escola_basilides_de_godoy\\atividadevendas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96328D83-541B-47E6-BA70-DFC61825CF24}|AtividadeVendas\\AtividadeVendas.csproj|solutionrelative:atividadevendas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96328D83-541B-47E6-BA70-DFC61825CF24}|AtividadeVendas\\AtividadeVendas.csproj|c:\\users\\camil\\downloads\\escola_basilides_de_godoy\\atividadevendas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96328D83-541B-47E6-BA70-DFC61825CF24}|AtividadeVendas\\AtividadeVendas.csproj|solutionrelative:atividadevendas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96328D83-541B-47E6-BA70-DFC61825CF24}|AtividadeVendas\\AtividadeVendas.csproj|c:\\users\\camil\\downloads\\escola_basilides_de_godoy\\atividadevendas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96328D83-541B-47E6-BA70-DFC61825CF24}|AtividadeVendas\\AtividadeVendas.csproj|solutionrelative:atividadevendas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Downloads\\Escola_Basilides_de_Godoy\\AtividadeVendas\\Form5.cs",
+              "RelativeDocumentMoniker": "AtividadeVendas\\Form5.cs",
+              "ToolTip": "C:\\Users\\camil\\Downloads\\Escola_Basilides_de_Godoy\\AtividadeVendas\\Form5.cs",
+              "RelativeToolTip": "AtividadeVendas\\Form5.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:46:53.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\camil\\Downloads\\Escola_Basilides_de_Godoy\\AtividadeVendas\\Form5.cs",
+              "RelativeDocumentMoniker": "AtividadeVendas\\Form5.cs",
+              "ToolTip": "C:\\Users\\camil\\Downloads\\Escola_Basilides_de_Godoy\\AtividadeVendas\\Form5.cs [Design]",
+              "RelativeToolTip": "AtividadeVendas\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:46:50.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\camil\\Downloads\\Escola_Basilides_de_Godoy\\AtividadeVendas\\Form4.cs",
               "RelativeDocumentMoniker": "AtividadeVendas\\Form4.cs",

@@ -57,6 +57,7 @@
             this.btn3.TabIndex = 1;
             this.btn3.Text = "For";
             this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.Click += new System.EventHandler(this.btn3_Click);
             // 
             // btn2
             // 
@@ -76,6 +77,7 @@
             this.btn1.TabIndex = 3;
             this.btn1.Text = "While";
             this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
             // btn5
             // 
