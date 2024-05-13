@@ -42,5 +42,12 @@ namespace AtividadeVendas
             Frm4 tela3 = new Frm4();
             tela3.Show();
         }
+
+        private void fatoralToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Frm5 tela4 = new Frm5();
+            tela4.Show();
+        }
     }
 }

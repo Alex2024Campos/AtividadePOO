@@ -34,3 +34,17 @@ C:\Users\catia\OneDrive\Área de Trabalho\Atividades POO\Atividades-de-POO\Ativi
 C:\Users\catia\OneDrive\Área de Trabalho\Atividades POO\Atividades-de-POO\AtividadeVendas\obj\Debug\AtividadeVendas.csproj.CoreCompileInputs.cache
 C:\Users\catia\OneDrive\Área de Trabalho\Atividades POO\Atividades-de-POO\AtividadeVendas\obj\Debug\AtividadeVendas.exe
 C:\Users\catia\OneDrive\Área de Trabalho\Atividades POO\Atividades-de-POO\AtividadeVendas\obj\Debug\AtividadeVendas.pdb
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\bin\Debug\AtividadeVendas.exe.config
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\bin\Debug\AtividadeVendas.exe
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\bin\Debug\AtividadeVendas.pdb
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.csproj.AssemblyReference.cache
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.Frm1.resources
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.Frm2.resources
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.Frm3.resources
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.Frm4.resources
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.Frm5.resources
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.Properties.Resources.resources
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.csproj.GenerateResource.cache
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.csproj.CoreCompileInputs.cache
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.exe
+C:\Users\camil\Downloads\Escola_Basilides_de_Godoy\AtividadeVendas\obj\Debug\AtividadeVendas.pdb
